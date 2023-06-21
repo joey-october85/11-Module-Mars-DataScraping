@@ -1,5 +1,5 @@
 # 11-Module-Mars-DataScraping
-Python, BeautifulSoup, Splinter, HTML/CCS, data-scraping, data visualization<br><br>
+Python, BeautifulSoup, Splinter, HTML/CCS, Data-Scraping, Data Visualization<br><br>
 
 In this project we perform web-scraping on  Mars news and weather sites and analyze the extracted data to produce visualizations. The data is inspected and identified via HTML id and class attributes and then extracted using Splinter and Beautiful Soup. Pandas and Matplotlib are then leveraged to collect, organize/store, analyze and visualize the data.<br><br>
 
